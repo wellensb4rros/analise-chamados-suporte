@@ -1,0 +1,11 @@
+id,titulo,status,prioridade
+1,Erro no sistema,aberto,alta
+2,Lentidão no sistema,fechado,media
+3,Falha no login,aberto,alta
+4,Erro no pagamento,em andamento,alta
+5,Bug na tela,fechado,baixa
+6,Erro no sistema,aberto,media
+7,Problema na rede,em andamento,alta
+8,Falha no login,fechado,media
+9,Lentidão no sistema,aberto,baixa
+10,Erro no sistema,em andamento,alta
